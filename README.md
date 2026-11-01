@@ -1,1 +1,1 @@
-# ai-chatbot-for-students-hcl
+# ai-chatbot-for-students
